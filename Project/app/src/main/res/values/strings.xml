@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string name="convert_to">Convert to</string>
+    <string-array name="list_convert">
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+        <item>Reamur</item>
+        <item>Rankine</item>
+    </string-array>
+</resources>
